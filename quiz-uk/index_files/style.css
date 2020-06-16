@@ -7289,7 +7289,7 @@ body.experts-in-money .webform-title {
 @media only screen and (max-width: 767px) {
 	body.experts-in-money .webform-title {
 		padding: .2em;
-		background: #86146e;
+		background-image: linear-gradient(120deg, #00B0B2 0%, #1C1466 100%);
 	}
 	body.experts-in-money .webform-title h1 {
 		color: white;
